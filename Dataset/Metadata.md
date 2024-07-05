@@ -1,6 +1,6 @@
 ## Data Columns and Descriptions
 
-Month (Month)   
+Month (Month)
 Bank ATM ID (BANK ATM id)   
 State (STATE)          
 Effective Days (Effective days)         
