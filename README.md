@@ -76,3 +76,6 @@ By achieving these objectives, the ATM Transaction Analysis Dashboard aims to su
 
 #### Conclusion:
 The ATM Transaction Analysis Dashboard offers a comprehensive overview of ATM operations, focusing on cost analysis, revenue generation, and transaction trends across various regions. By meticulously breaking down costs and revenue streams, this dashboard equips stakeholders with the necessary information to enhance operational efficiency, strategize effectively, and predict future trends. The combination of data cleaning, DAX queries, and visualization techniques in Power BI ensures that the insights are accurate, relevant, and actionable.
+
+### Contact Me: 
+Email: binoypatra20@gmail.com
